@@ -1,4 +1,4 @@
-package com.example.mixin;
+package com.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.injection.At;
