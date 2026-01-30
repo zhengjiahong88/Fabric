@@ -12,14 +12,14 @@
 		"sources": "https://github.com/zhengjiahong88/Fabric"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/icon.png",
+	"icon": "assets/mod_id/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-          "com.Mod"
+			"com.mod_id.Mod"
 		],
 		"client": [
-          "com.ModClient"
+			"com.mod_id.ModClient"
 		]
 	},
 	"mixins": [

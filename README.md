@@ -8,3 +8,4 @@
   * 第 25 行：將 `"mod_id"` 改為你的模組 ID
 * `gradle.properties`
   * 第 21 行：將 `mod_id` 改為你的模組 ID
+* 外加四個名為 `mod_id` 改為你的模組 ID
