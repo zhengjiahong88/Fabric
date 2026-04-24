@@ -23,9 +23,9 @@
 		]
 	},
 	"mixins": [
-		"mixins.json",
+		"mod_id.mixins.json",
 		{
-			"config": "client.mixins.json",
+			"config": "mod_id.client.mixins.json",
 			"environment": "client"
 		}
 	],

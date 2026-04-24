@@ -3,7 +3,6 @@
 	"package": "com.mod_id.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-      "ClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
